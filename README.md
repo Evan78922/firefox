@@ -1,6 +1,6 @@
 ![Firefox Browser](./docs/readme/readme-banner.svg)
 
-# Bienvenue sur mon projet Firefox
+# Bienvenus sur mon projet Firefox
 Bonjour, je m'appelle Evan, je suis étudiant en cybersécurité et dans le cadre de ma formation, j'ai créé et personnalisé mon fork de Firefox. 
 
 [Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
